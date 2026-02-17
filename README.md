@@ -1,5 +1,3 @@
-新規事業の飲食店向けモバイルオーダーのwebエンジニア兼ユニットリーダーとして従事しています。
-
 今までの開発経験はGitHubに記載しています。
 https://github.com/horisanLog/personal-history
 
@@ -24,4 +22,4 @@ https://github.com/horisanLog/personal-history
 
 ◎挑戦中
 - AI駆動開発フローの構築
-- Dify/Cursor等を使った業務効率化
+- AIツールを使った業務効率化
